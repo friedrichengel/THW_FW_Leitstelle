@@ -1,0 +1,7 @@
+X:\privatCloud\THW\Test_fwd\FWD_Leistelle\WindowsFormsApplication1\obj\Debug\FWD_Leistelle.csproj.GenerateResource.Cache
+X:\privatCloud\THW\Test_fwd\FWD_Leistelle\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+X:\privatCloud\THW\Test_fwd\FWD_Leistelle\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+X:\privatCloud\THW\Test_fwd\FWD_Leistelle\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+X:\privatCloud\THW\Test_fwd\FWD_Leistelle\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+X:\privatCloud\THW\Test_fwd\FWD_Leistelle\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+X:\privatCloud\THW\Test_fwd\FWD_Leistelle\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
