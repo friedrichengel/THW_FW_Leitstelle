@@ -5,3 +5,12 @@ X:\privatCloud\THW\Test_fwd\FWD_Leistelle\WindowsFormsApplication1\bin\Debug\Win
 X:\privatCloud\THW\Test_fwd\FWD_Leistelle\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
 X:\privatCloud\THW\Test_fwd\FWD_Leistelle\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
 X:\privatCloud\THW\Test_fwd\FWD_Leistelle\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\github\THW_FW_Leitstelle\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\github\THW_FW_Leitstelle\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\github\THW_FW_Leitstelle\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\github\THW_FW_Leitstelle\WindowsFormsApplication1\obj\Debug\FWD_Leistelle.csprojAssemblyReference.cache
+C:\github\THW_FW_Leitstelle\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\github\THW_FW_Leitstelle\WindowsFormsApplication1\obj\Debug\FWD_Leistelle.csproj.GenerateResource.cache
+C:\github\THW_FW_Leitstelle\WindowsFormsApplication1\obj\Debug\FWD_Leistelle.csproj.CoreCompileInputs.cache
+C:\github\THW_FW_Leitstelle\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\github\THW_FW_Leitstelle\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
